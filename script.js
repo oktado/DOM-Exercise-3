@@ -2,19 +2,19 @@ let card = document.getElementById("card");
 
 let fruits = [
     {
-        image : "./bananas-white-background.jpg",
+        image : "images/bananas-white-background.jpg",
         title : "Pisang",
         Colour : "Kuning",
         taste  : "Manis,tekstur lembut.",
     },
     {
-        image : "./orange-white-white.jpg",
+        image : "images/orange-white-white.jpg",
         title : "Jeruk",
         Colour : "Oranye",
         taste  : "Asam, Manis, tekstur kasar dan berserat.",
     },
     {
-        image : "./ripe-tasty-raw-striped-fruit.jpg",
+        image : "images/ripe-tasty-raw-striped-fruit.jpg",
         title : "Semangka",
         Colour : "Merah",
         taste  : "Manis, segar, mengandung banyak air.",
