@@ -1,0 +1,35 @@
+.jumbotron {
+    height: 150px;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    
+}
+header {
+    text-align: center;
+}
+body{
+    color: rgb(22, 22, 22);
+}
+.jumbotron {
+    height: 20px;
+}
+.card {
+    background-color: rgb(168, 164, 164);
+    margin-top: 10px;
+    width: 50%;
+    border-bottom: black 10px;
+}
+.card-deck {
+    width: 100%;
+    border-radius: 10px;
+    
+}
+.card-img-top {
+    width: ;
+    height: 35vh;
+    object-fit: cover;
+    flex-wrap: wrap;
+
+    
+}
